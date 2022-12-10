@@ -1,0 +1,19 @@
+.cert{
+    padding: 25px 0;
+    background-color: #ffa7bc;
+}
+.cert h1{
+    margin-top: 75px;
+}
+.certs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cert_con{
+    width: 450px;
+    padding: 25px;
+}
+.cert_con img{
+    width: 100%;
+}
